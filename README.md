@@ -4,6 +4,10 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
+Quarkus rest-Client extension is used to communcate with different apis with least code.
+
+it is time efficient and performance efficient
+
 ## Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:

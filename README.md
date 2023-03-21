@@ -4,7 +4,7 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
-Quarkus rest-Client extension is used to communcate with different apis with least code.
+Quarkus rest-Client extension is used to communicate with different apis.
 
 it is time efficient and performance efficient
 
